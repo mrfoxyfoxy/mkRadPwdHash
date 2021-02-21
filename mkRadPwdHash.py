@@ -1,7 +1,7 @@
 """
 simple class and command line tool to genereate salted password-hashes for FreeRadius
 """
-__version__ = '0.03'
+__version__ = '0.04'
 __author__ = "Christian Prinsler"
 
 import hashlib
