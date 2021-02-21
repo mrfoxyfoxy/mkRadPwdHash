@@ -1,2 +1,2 @@
 # mkRadPwdHash
-simple python class and cli too to generate salted password-hashes for FreeRadius
+A simple python class and cli tool to generate salted password-hashes for FreeRadius.
