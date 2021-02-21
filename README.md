@@ -22,4 +22,5 @@ Copy and paste output line to yout FreeRadius config with the username as prefix
 * ArgumentParser
 * getpass
 
-
+### Licence
+This project is licensed under the GNU General Public License v3.0.
